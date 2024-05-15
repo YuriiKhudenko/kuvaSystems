@@ -1,0 +1,22 @@
+.btn {
+  border: none;
+  padding: 7px;
+  background-color: #ececec;
+  color: #222;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #c4c1c1;
+  transition: all 0.4s;
+}
+
+.activeToggleButton {
+  background-color: #222;
+  color: #fff;
+}
+
+.arrow {
+  margin: 10px;
+}
